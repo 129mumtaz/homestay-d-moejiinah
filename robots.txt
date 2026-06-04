@@ -1,0 +1,4 @@
+User-agent: *
+Allow: / 
+
+Sitemap: https://homestay-dmoejinah.vercel.app/sitemap.xml
